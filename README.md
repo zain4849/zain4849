@@ -1,7 +1,8 @@
 # Hi there, I'm Zain Ali 👋
 
 ## About Me
-Greetings! 👋 I'm a self-taught software developer with expertise in backend development. I excel at creating efficient and user-friendly solutions tailored to meet client needs. As I continue to expand my skill set, I'm eager to collaborate with like-minded professionals and contribute to impactful projects.
+Hey there! 👋
+I'm just a student diving headfirst into the world of software development. While I'm still figuring things out, I'm super excited about the endless possibilities this field offers. Whether it's tinkering with code or brainstorming new ideas, I'm all in! trynna soak up as much knowledge as I can and hopefully make some cool stuff along the way.
 <br/><br/>
 
 ## 🚀💻 Tools and Technologies
