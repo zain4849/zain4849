@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=66F0FF&center=true&vCenter=true&width=800&lines=Hey+I'm+Zain+an+aspiring+software+developer+%F0%9F%92%BB;Learning+Python+JavaScript+and+More+%F0%9F%9A%80;Open+to+Collaborations+and+Ideas+%F0%9F%8C%9F;Exploring+New+Tech+Every+Day+%F0%9F%94%8D;Let's+Build+Something+Awesome+Together!&multiline=false&repeat=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=777777&center=true&vCenter=true&width=800&lines=Hey+I'm+Zain+an+aspiring+software+developer+%F0%9F%92%BB;Learning+Python+JavaScript+and+More+%F0%9F%9A%80;Open+to+Collaborations+and+Ideas+%F0%9F%8C%9F;Exploring+New+Tech+Every+Day+%F0%9F%94%8D;Let's+Build+Something+Awesome+Together!&multiline=false&repeat=true" alt="Typing SVG" />
 </div>
 
 <img width="100%" src="./divider.svg">
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=999999&color=A6E22E&width=200&lines=About+Me" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=999999&color=95D120&width=200&lines=About+Me" alt="About Me" />
 </div>
 
 Hey there! 👋
@@ -14,7 +14,7 @@ I'm just a student diving headfirst into the world of software development. Whil
 <img width="100%" src="./divider.svg">
 
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=999999&color=66D9EF&width=400&lines=Tools+and+Technologies" alt="Tools and Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=999999&color=5BC3DB&width=400&lines=Tools+and+Technologies" alt="Tools and Technologies" />
 </div>
 
 <img align="left" alt="HTML5" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
