@@ -27,7 +27,6 @@ I'm a student diving headfirst into the world of software development. While I'm
   <img align="left" alt="Express" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
   <img align="left" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   
-  <img align="left" alt="GSAP" width="40px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" />
   <img align="left" alt="Figma" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 </div>
 
@@ -40,6 +39,8 @@ I'm a student diving headfirst into the world of software development. While I'm
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=999999&color=4ba3f2&width=300&lines=GitHub+Stats" alt="GitHub Stats" />
 </div>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zain4849&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
