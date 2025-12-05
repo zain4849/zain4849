@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=c874b2&center=true&vCenter=true&width=800&lines=Hey+I'm+Zain+%F0%9F%91%8B;Learning+Python,+JavaScript+and+More+%F0%9F%9A%80;Open+to+Collaborations+and+Ideas+%F0%9F%8C%9F;Exploring+New+Tech+Every+Day+%F0%9F%94%8D;Let's+Build+Something+Awesome+Together!&multiline=false&repeat=true" alt="Typing SVG" />
 </div>
 
+<!-- Profile Views Counter -->
+
+![](https://komarev.com/ghpvc/?username=zain4849&color=blueviolet)
+<!-- Followers Count Badge -->
+
+
 <img width="100%" src="./divider4.svg">
 
 <div align="left">
@@ -11,6 +17,7 @@
 I'm a student diving headfirst into the world of software development. While I'm still figuring things out, I'm super excited about the endless possibilities this field offers. Whether it's tinkering with code or brainstorming new ideas, I'm all in! trynna soak up as much knowledge as I can and hopefully make some cool stuff along the way.
 
 <img width="100%" src="./divider4.svg">
+
 
 <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=999999&color=ba1e68&width=400&lines=Tools+and+Technologies" alt="Tools and Technologies" />
