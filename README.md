@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=c874b2&center=true&vCenter=true&width=800&lines=Hey+I'm+Zain+%F0%9F%91%8B;Learning+Python,+JavaScript+and+More+%F0%9F%9A%80;Open+to+Collaborations+and+Ideas+%F0%9F%8C%9F;Exploring+New+Tech+Every+Day+%F0%9F%94%8D;Let's+Build+Something+Awesome+Together!&multiline=false&repeat=true" alt="Typing SVG" />
   ---
-  <img width="100%" src="./spaceman.png">
+  <img width="100%" src="./spaceman1.png">
 
 </div>
 
