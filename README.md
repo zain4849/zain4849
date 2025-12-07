@@ -7,7 +7,7 @@
 
 <!-- Profile Views Counter -->
 
-![](https://komarev.com/ghpvc/?username=zain4849&color=blueviolet)
+<!-- ![](https://komarev.com/ghpvc/?username=zain4849&color=blueviolet) -->
 <!-- Followers Count Badge -->
 
 
