@@ -1,5 +1,8 @@
+<h1 align="center">Hi, I'm Zain Ali 👋</h1>
 
-  <img width="100%" src="./spaceman1.png">
+<img width="100%" src="./divider4.svg">
+
+<img width="100%" src="./spaceman1.png">
 
 <!-- Profile Views Counter -->
 
@@ -9,11 +12,10 @@
 
 <img width="100%" src="./divider4.svg">
 
-<!-- <div align="left">
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2000&pause=999999&color=7649fe&width=200&lines=About+Me" alt="About Me" />
-</div> -->
+</div>
 
-## Hi, I'm Zain Ali 👋
 
 🎨 Frontend developer learning through hands-on projects  
 📐 Focused on HTML semantics, modern CSS layouts, and JavaScript interactions  
