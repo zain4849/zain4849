@@ -34,9 +34,9 @@
   </a>
 </p>
 
-<br/><br/>
+<!-- <br/><br/> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 <img width="100%" src="./divider4.svg">
 
