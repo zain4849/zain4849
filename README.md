@@ -21,6 +21,28 @@
 📐 Focused on HTML semantics, modern CSS layouts, and JavaScript interactions  
 📱 Currently improving my ability to build clean, responsive UIs from scratch
 
+<!-- Contact Section -->
+<table width="100%" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="middle" style="padding:8px 0;">
+      <span style="font-size:18px; line-height:28px; margin:0;">
+        <strong>📫 Connect with Me</strong>
+      </span>
+    </td>
+    <td align="right" valign="middle" style="padding:8px 0;">
+      <!-- <a href="mailto:your-email@example.com" style="margin-left:8px;">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28" style="vertical-align:middle;" />
+      </a> -->
+      <a href="https://www.linkedin.com/in/zain-ak/" style="margin-left:8px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" style="vertical-align:middle;" />
+      </a>
+      <a href="https://zainali-portfolio.netlify.app/" style="margin-left:8px;">
+        <img src="https://img.shields.io/badge/Portfolio-7649FE?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="Portfolio" height="28" style="vertical-align:middle;" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <img width="100%" src="./divider4.svg">
 
 
