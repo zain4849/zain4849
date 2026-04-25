@@ -2,7 +2,7 @@
 
 <img width="100%" src="./divider4.svg">
 
-<img width="100%" src="./spaceman1.png">
+<img width="100%" src="./astronaut_coder_floating_in_space.png">
 
 <!-- Profile Views Counter -->
 
