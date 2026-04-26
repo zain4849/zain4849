@@ -17,9 +17,9 @@
 </div>
 
 
-🎨 Frontend developer learning through hands-on projects  
-📐 Focused on HTML semantics, modern CSS layouts, and JavaScript interactions  
-📱 Currently improving my ability to build clean, responsive UIs from scratch
+🚀 Full Stack Developer building end-to-end web applications
+⚙️ Focused on integrating RESTful APIs, database logic, and modern CSS layouts
+📱 Currently delivering responsive, data-driven UIs with a focus on clean code
 
 <!-- Contact Section -->
 <table width="100%" cellpadding="0" cellspacing="0">
