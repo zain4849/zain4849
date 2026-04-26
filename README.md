@@ -17,8 +17,8 @@
 </div>
 
 
-🚀 Full Stack Developer building end-to-end web applications
-⚙️ Focused on integrating RESTful APIs, database logic, and modern CSS layouts
+🚀 Full Stack Developer building end-to-end web applications <br>
+⚙️ Focused on integrating RESTful APIs, database logic, and modern CSS layouts <br>
 📱 Currently delivering responsive, data-driven UIs with a focus on clean code
 
 <!-- Contact Section -->
